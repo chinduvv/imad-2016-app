@@ -25,12 +25,11 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
-   /* height: 200px;*/
-     background-position: center center;
-      background-size: cover;
-      display: block;
-}
+/*.img-medium {
+    height: 200px;
+    
+     
+}*/
 header{
   background: #999;
   color: white;
