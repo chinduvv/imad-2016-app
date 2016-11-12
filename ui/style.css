@@ -1,6 +1,13 @@
 body {
     font-family: sans-serif;
     background-image: url("../ui/slide2.png");
+     background-repeat:no-repeat;
+      background-position: center center;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
      margin: 0;
         margin-top: 75px;
 }
