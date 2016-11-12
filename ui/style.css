@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+   
     background-image: url('../ui/madi.png');
      background-repeat:no-repeat;
       background-position: center center;
@@ -25,9 +25,9 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
+/*.img-medium {
     height: 200px;
-}
+}*/
 header{
   background: #999;
   color: white;
