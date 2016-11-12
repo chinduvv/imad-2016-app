@@ -21,4 +21,40 @@ body {
 .img-medium {
     height: 200px;
 }
+header{
+  background: #999;
+  color: white;
+  padding: 15px 15px 0 15px;
+  
+}
+body: {
+    margin: 0;
+    
+}
+header h1{
+    ;
+   
+    display: inline;
+}
+nav ul{
+    
+     padding: 0 0 0 15px;
+    display: inline;
+}
+nav ul li{
+    background:black;
+    color:white;
+    list-style-type: none;
+    display: inline-block;
+  padding: 5px 15px;
+  
+    
+}
+nav ul li a{
+    color: white;
+}
 
+
+.col{
+   float: left; 
+}
