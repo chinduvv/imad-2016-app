@@ -33,12 +33,12 @@ body {
 header{
   background: #999;
   color: white;
-  padding: 0px 15px 0 15px;
+  padding: 15px 15px 0 15px;
   
 }
 
 header h1{
-    ;
+    
    
     display: inline;
 }
