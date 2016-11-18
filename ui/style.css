@@ -1,4 +1,4 @@
-body {
+/*body {
    
    background-image: url('http://maybusch.com/wp-content/uploads/2015/07/old-young-holding-hands-890x500.jpg');
      background-repeat:no-repeat;
@@ -29,7 +29,7 @@ body {
     height: 200px;
     
      
-}*/
+}
 header{
   background-color: #ffffff;
     opacity: .4;
@@ -67,4 +67,28 @@ nav ul li a{
 
 .col{
    float: left; 
+}*/
+body{
+font-family:san-serif;
+margin-top:60px;
+}
+.center{
+text-align: center;
+}
+.bold{
+font-weight: bold;
+}
+.text-big{
+font-size: 300%;
+}
+.img-medium{
+height: 200px;
+}
+.container{
+max-width: 800px;
+margin: 0 auto;
+color: grey;
+font-family:sans-serif;
+padding-left: 20px;
+padding-right: 20px;
 }
