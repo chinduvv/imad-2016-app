@@ -72,7 +72,7 @@ rgrtgtg rtgrtg g556
 fhwefrwg4gtnf hbgugkg4
 fgge
 ghjgjg
-</p>
+</p>`
 },
 article-three:{
 title: 'Article One| Chindu',
@@ -94,7 +94,7 @@ rgrtgtg rtgrtg g556
 fhwefrwg4gtnf hbgugkg4
 fgge
 ghjgjg
-</p>
+</p>`
 }
 };
 function createTemplate (data){
@@ -130,10 +130,10 @@ ${content}
 </div>
 </body>
 </html>
-
+`
  
 
-`
+
 ;
 return htmlTemplate;
 }
