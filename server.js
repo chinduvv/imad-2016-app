@@ -30,7 +30,7 @@ var app=express();
 app.use(morgan('combined'));
 
 var articles = {
-var article-one:{
+ 'article-one':{
 title: 'Article One| Chindu',
 heading: 'Article One',
 date: 'Sep 5,2016',
@@ -52,7 +52,7 @@ fgge
 ghjgjg
 </p> `
 },
-article-two:{
+'article-two':{
 title: 'Article One| Chindu',
 heading: 'Article One',
 date: 'Sep 5,2016',
@@ -74,7 +74,7 @@ fgge
 ghjgjg
 </p>`
 },
-article-three:{
+'article-three':{
 title: 'Article One| Chindu',
 heading: 'Article One',
 date: 'Sep 5,2016',
