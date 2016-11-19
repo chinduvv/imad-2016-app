@@ -54,11 +54,11 @@ ghjgjg
 },
 'article-two':{
 title: 'Article One| Chindu',
-heading: 'Article One',
+heading: 'Article Two',
 date: 'Sep 5,2016',
 content:` 
 <p>
-ferferfgfhjjhhjhbhbdhjsdbhfffhegfjew
+Twoooooooooooooooooooooooooooooooooooooooooooooooooo
 fhjjjjjjjjjjjjjjj
 hjfhjhkfhkhkjhkhhkhkhkhk
 </p>
@@ -75,14 +75,12 @@ ghjgjg
 </p>`
 },
 'article-three':{
-title: 'Article One| Chindu',
+title: 'Article Three| Chindu',
 heading: 'Article One',
 date: 'Sep 5,2016',
 content:` 
 <p>
-ferferfgfhjjhhjhbhbdhjsdbhfffhegfjew
-fhjjjjjjjjjjjjjjj
-hjfhjhkfhkhkjhkhhkhkhkhk
+Threeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 </p>
 <p>
 efergrfr rgbjhgrtjg fhrjgfrg gerf
@@ -154,5 +152,5 @@ res.sendFile(path.join(__dirname,'ui','madi.png'));
 
 var port=8080;
 app.listen(8080,function(){
-console.log('IMAD course app listening on port ${port}!');
+console.log(`IMAD course app listening on port ${port}!`);
 });
