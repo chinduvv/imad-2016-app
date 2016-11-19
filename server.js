@@ -154,5 +154,5 @@ res.sendFile(path.join(__dirname,'ui','madi.png'));
 
 var port=8080;
 app.listen(8080,function(){
-console.log('IMAD course app listening on port S{port}!');
+console.log('IMAD course app listening on port ${port}!');
 });
