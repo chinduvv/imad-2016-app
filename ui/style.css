@@ -1,16 +1,6 @@
-/*body {
-   
-   background-image: url('http://maybusch.com/wp-content/uploads/2015/07/old-young-holding-hands-890x500.jpg');
-     background-repeat:no-repeat;
-      background-position: center center;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-attachment: fixed;
-     margin: 0;
-        margin-top: 75px;
-        
+body {
+    font-family: sans-serif;
+    margin-top: 60px;
 }
 
 .center {
@@ -25,70 +15,32 @@
     font-weight: bold;
 }
 
-/*.img-medium {
+.img-medium {
     height: 200px;
-    
-     
-}
-header{
-  background-color: #ffffff;
-    opacity: .4;
-
- 
-  color: white;
-  padding: 15px 15px 0 15px;
-  
 }
 
-header h1{
-    
-   
-    display: inline;
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #4a4a4a;
+    font-family: sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-nav ul{
-    
-     padding: 0 0 0 15px;
-    display: inline;
-}
-nav ul li{
-    background:black;
-    color:white;
-    list-style-type: none;
-    display: inline-block;
-  padding: 5px 15px;
-  
-    
-}
-nav ul li a{
-    color: white;
+.comment {
+    margin-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
 }
 
+.commenter {
+    font-style: italic;
+    font-size: 0.8em;
+}
 
-.col{
-   float: left; 
-}*/
-body{
-font-family:san-serif;
-margin-top:50px;
-}
-.center{
-text-align: center;
-}
-.bold{
-font-weight: bold;
-}
-.text-big{
-font-size: 300%;
-}
-.img-medium{
-height: 200px;
-}
-.container{
-max-width: 800px;
-margin: 0 auto;
-color: grey;
-font-family:sans-serif;
-padding-left: 20px;
-padding-right: 20px;
+#comment_form {
+    margin-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
 }
