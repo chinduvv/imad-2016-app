@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
     margin-top: 60px;
-   background-image: url("./ui/slide2.png");
+   background-image: url("./ui/bg.jpg");
+   background-repeat:no-repeat;
 }
 
 .center {
