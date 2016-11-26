@@ -4,13 +4,21 @@
        
 <ul class="menu">
     
-<li><a href="">HOME</a></li>
-<li><a href="">BLOG</a></li>
-<li><a href="showDiv();" >ABOUT</a></li>
+<li><a id="one" href="" onClick="check();">HOME</a></li>
+<li><a id="two" href="">BLOG</a></li>
+<li><a id="three" href="" >ABOUT</a></li>
 <li><a href="">CONTACT</a></li>
 
 </ul>
+<script type='text/javascript'>
 
+function check()
+{
+    var id=document.getElementById('about');
+    id.visible=true;
+}
+
+</script>
         <link href="/ui/style.css" rel="stylesheet" />
         
     </head>
