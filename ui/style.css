@@ -18,6 +18,7 @@
     text-decoration: none;
 }
 
+
 .menu li a:hover:not(.active) {
     background-color: #111;
 }
