@@ -30,7 +30,11 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
+input[type="text"], textarea {
 
+  background-color : #d1d1d1; 
+
+}
 .comment {
     margin-left: 10px;
     padding-bottom: 10px;
