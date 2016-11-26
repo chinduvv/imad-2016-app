@@ -132,6 +132,12 @@ function loadArticles () {
     request.send(null);
 }
 
+var about=document.getElementById('about');
+about.onClick=function () {
+        // Create a request object
+        var about_div=document.getElementById('articles');
+        about_div.visible=true;
+        };
 
 // The first thing to do is to check if the user is logged in!
 loadLogin();
