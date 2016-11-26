@@ -4,7 +4,8 @@
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    opacity:0.2;
+   opacity:0.2;
+   
 }
 
 .menu li {
@@ -21,7 +22,7 @@
 
 
 .menu li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #FF7F50;
 }
 .menu li a:hover{
     background-color: #FF7F50;
