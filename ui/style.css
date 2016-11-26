@@ -1,9 +1,16 @@
-ul a:hover {
-color: #FFF;
+li a:hover {
+    background-color: #555;
+    color: white;
+     display: block;
 }
 ul{
+    
     background:black;
+    list-style-type: none;
+       padding: 0;
+    display:inline;
 }
+
 
 
 body {
