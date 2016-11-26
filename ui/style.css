@@ -30,7 +30,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
-input[type="text"], textarea {
+.username {
 
   background-color : #d1d1d1; 
 
