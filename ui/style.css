@@ -10,7 +10,9 @@
        padding: 0;
     display:inline;
 }
-
+.listClass li a{
+    display:inline;
+}
 
 
 body {
