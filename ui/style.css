@@ -25,6 +25,7 @@
 }
 .menu li a:hover{
     background-color: #FF7F50;
+    opacity:0.1;
 }
 
 .menu .active {
