@@ -1,7 +1,9 @@
 ul a:hover {
 color: #FFF;
 }
-
+ul{
+    background:black;
+}
 
 
 body {
