@@ -4,9 +4,9 @@
        
 <ul class="menu">
     
-<li><a id="one" href="" onClick="check();">HOME</a></li>
+<li><a id="one" href="" >HOME</a></li>
 <li><a id="two" href="">BLOG</a></li>
-<li><a id="three" href="" >ABOUT</a></li>
+<li><a id="three" href="" onClick="check();" >ABOUT</a></li>
 <li><a href="">CONTACT</a></li>
 
 </ul>
@@ -15,7 +15,7 @@
 function check()
 {
     var id=document.getElementById('about');
-    id.visible=true;
+    id.style.visibility = 'visible';
 }
 
 </script>
