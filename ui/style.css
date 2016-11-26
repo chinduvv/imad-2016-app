@@ -32,7 +32,8 @@ body {
 }
 .username {
 
-  background-color : #d1d1d1; 
+  background-color:#000; 
+  opacity:0.8;
 
 }
 .comment {
