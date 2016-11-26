@@ -1,9 +1,9 @@
-li a:hover {
+.listClass li a:hover {
     background-color: #555;
     color: white;
      display: block;
 }
-ul{
+.listClass ul{
     
     background:black;
     list-style-type: none;
